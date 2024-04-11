@@ -1,4 +1,4 @@
-# 8Lives - Tracks Organ Supply chain on Blockchain. 
+# 8Lives.
 
 8Lives is a Blockchain Organ Donation prototype created as a proof-of-concept for a decentralized solution. The application is built on Ethereum, more specifically on Remix where the smart contract is compiled and deployed. XDCpay serves as a wallet for managing the fake XDC coins. A front-end interface application is built in JavaScript and interacts with the back-end via Web3.js. 
 
